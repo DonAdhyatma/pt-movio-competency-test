@@ -3,7 +3,7 @@ Copy
 
 # 🍳 ArtificialChef AI
  
-> **Turn your fridge ingredients into delicious recipes — instantly.**  
+> **Turn your kitchen ingredients into delicious recipes — instantly.**  
 > An AI-powered single-page web application built with Next.js 16 and Google Gemini AI.
  
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-black?style=for-the-badge&logo=vercel)](https://pt-movio-competency-test.vercel.app/)
@@ -16,7 +16,7 @@ Copy
  
 ## 📌 Overview
  
-**ArtificialChef AI** solves a universal daily problem: *"I have ingredients in my fridge, but what should I cook?"*
+**ArtificialChef AI** solves a universal daily problem: *"I have ingredients in my kitchen, but what should I cook?"*
  
 Users simply type a list of ingredients they have at home, and the app uses **Google Gemini 2.5 Flash-Lite** to instantly generate 3 practical, easy-to-follow recipe suggestions — complete with cook time, difficulty level, step-by-step instructions, and a short list of any missing ingredients they might need.
  
