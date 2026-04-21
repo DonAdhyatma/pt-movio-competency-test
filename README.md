@@ -1,6 +1,3 @@
-Readme · MD
-Copy
-
 # 🍳 ArtificialChef AI
  
 > **Turn your kitchen ingredients into delicious recipes — instantly.**  
