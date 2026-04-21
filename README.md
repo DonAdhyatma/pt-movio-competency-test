@@ -50,7 +50,7 @@ This project was built as part of a **Creative Technology Generalist Competency 
 ## 🔄 Data Flow
  
 ```
-User Input (Ingredients)
+  User Input (Ingredients)
         ↓
   Next.js Frontend (page.tsx)
         ↓  HTTP POST
