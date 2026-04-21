@@ -129,8 +129,6 @@ artificialchef-ai/
 |---|---|---|
 | `GEMINI_API_KEY` | Google Gemini API key from AI Studio | ✅ Yes |
  
-> ⚠️ **Never commit your `.env.local` file to version control.** It is already listed in `.gitignore`.
- 
 ---
  
 ## 🧠 Prompt Engineering
