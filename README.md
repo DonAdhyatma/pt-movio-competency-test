@@ -159,7 +159,7 @@ npm run lint       # Run ESLint
  
 **[https://pt-movio-competency-test.vercel.app/](https://pt-movio-competency-test.vercel.app/)**
  
-Try it with: `eggs, onion, tofu, soy sauce, garlic, rice`
+Try it with example: `eggs, onion, tofu, soy sauce, garlic, rice`
  
 ---
  
